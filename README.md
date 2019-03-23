@@ -7,7 +7,7 @@ I used NetBeans 8 as my IDE of choice.
 
 CSV stands for "Comma-Separated Values", and it is used to represent tabular data (like you would find in a spreadsheet); you can find out more on Wikipedia.  
 
-##Output
+## Output
 The particular CSV file that we will work with is similar to the following:
 
     "ID","Total","Assignment 1","Assignment 2","Exam 1"
